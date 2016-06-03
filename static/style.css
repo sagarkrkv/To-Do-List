@@ -1,0 +1,55 @@
+h1 {
+	color: #1F77B4;
+	text-align: center;
+	padding-bottom: 40px;
+
+}
+
+.mdl-card__title-text{
+	font-family: 'Roboto';
+	font-weight: 900;
+}
+
+.container{
+	align-items: center;
+	justify-content: center;
+}
+
+.demo-card-wide.mdl-card {
+	min-width: 65%;
+	margin: auto;
+	box-sizing: border-box;
+
+	align-items: center;
+
+	justify-content: center;
+	background-color: #B2DFDB;
+
+}
+
+
+table {
+	font-family: 'Roboto';
+	padding-bottom: 40px;
+	margin: 0px auto;
+}
+
+th {
+	font-weight: 900;
+    padding: 15px;
+    background-color: #B2EBF2;
+    text-align: center;
+}
+td {
+	padding: 10px;
+
+}
+body {
+	padding: 20px 0 0;
+    position: relative;
+	background-color: #00BCD4;
+	align-items: center;
+  	justify-content: center;
+}
+
+
